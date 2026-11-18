@@ -239,6 +239,10 @@ fmt.Println(pool.Len())
 | `ReleaseAll()` | Release all in-use proxies |
 | `InUse() []Proxy` | Currently assigned proxies |
 
+## Maintained by status403
+
+proxypool-go is built and maintained by [status403](https://status403.com/?utm_source=github&utm_medium=referral&utm_campaign=proxypool-go), a software house specializing in [web scraping and high-throughput automation](https://status403.com/services/web-scraping?utm_source=github&utm_medium=referral&utm_campaign=proxypool-go). It runs inside pipelines like the one in [Building and Scaling a Marketplace Monitoring Pipeline in Go](https://status403.com/blog/marketplace-listing-monitoring-pipeline?utm_source=github&utm_medium=referral&utm_campaign=proxypool-go).
+
 ## License
 
 MIT
